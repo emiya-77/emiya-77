@@ -16,6 +16,7 @@
 ## :email: Connect with me
 <div align="center">
 
+[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchihai850@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kibria7/)
 [![Facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kibri7a/)
 [![Github](https://img.shields.io/badge/github-1A1F5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emiya-77)
